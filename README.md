@@ -1,4 +1,4 @@
-# AI-NQL2SQL
+# Natural Language to SQL Using AI
 
 A natural language to SQL query converter powered by OpenAI and LangChain. This application allows users to interact with a database using natural language queries, which are then converted into SQL and executed against a PostgreSQL database.
 
